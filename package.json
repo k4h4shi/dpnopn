@@ -14,7 +14,8 @@
     "figlet": "^1.2.0",
     "inquirer": "^3.3.0",
     "minimist": "^1.2.0",
-    "open": "0.0.5"
+    "open": "0.0.5",
+    "opn": "^5.1.0"
   },
   "author": "Kotaro Takahashi <kotaro.t@k4h4shi.com> (http://k4h4shi.com)",
   "license": "ISC",
