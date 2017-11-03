@@ -1,6 +1,6 @@
 {
   "name": "dpnopn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The homepage opener for npm modules that your project depend on.",
   "bin": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "opn": "^5.1.0"
   },
   "author": "Kotaro Takahashi <kotaro.t@k4h4shi.com> (http://k4h4shi.com)",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^4.0.1"
