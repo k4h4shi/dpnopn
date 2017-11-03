@@ -1,7 +1,7 @@
 {
   "name": "dpnopn",
   "version": "0.0.1",
-  "description": "The opener for homepage of npm modules that your project depend on.",
+  "description": "The homepage opener for npm modules that your project depend on.",
   "bin": "index.js",
   "scripts": {
     "test": "mocha test --recursive"

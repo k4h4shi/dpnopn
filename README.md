@@ -1,5 +1,5 @@
 # dpnopn
-dpnopn - opener for homepage of npm modules that your project depend on.
+dpnopn - The homepage opener for npm modules that your project depend on.
 
 ## Quick start
 ```
