@@ -1,6 +1,6 @@
 {
   "name": "dpnopn",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The homepage opener for npm modules that your project depend on.",
   "bin": "index.js",
   "scripts": {
