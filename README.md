@@ -1,6 +1,9 @@
 # dpnopn
 dpnopn - The homepage opener for npm modules that your project depend on.
 
+## Demo
+![gif](https://media.giphy.com/media/xT1Ra4mylJJ04FL33y/giphy.gif)
+
 ## Usage
 ```
 # install dpnopn
