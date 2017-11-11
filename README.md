@@ -16,6 +16,22 @@ cd your/node/project
 dpnopn
 ```
 
+## Option
+
+By default, dpnopn only show choice for production dependencies.
+
+You tell dpnopn to show other choices such as devDependencies with command options.
+
+For example, `dpnopn -PD` will show chose of production and devDependencies.
+
+available option is donw below.
+
+- -h, --help: show help
+- -P:         with productionDependencies
+- -D:         with devDependencies
+- -O:         with optionalDependencies
+- -B:         with bundleDependencies
+
 ## License
 MIT
 
