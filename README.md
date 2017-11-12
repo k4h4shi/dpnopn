@@ -1,8 +1,14 @@
-# dpnopn
+
+
+# dpnopn [Deperecated]
+
 dpnopn - The homepage opener for npm modules that your project depend on.
 
-## Demo
-![gif](https://media.giphy.com/media/xT1Ra4mylJJ04FL33y/giphy.gif)
+
+## This tool is no longer maintained
+Please consider using [dpndon-cli](https://github.com/k4h4shi/dpndon/tree/master/packages/dpndon-cli) instead.
+
+it provides same function as dpndon with opener command.
 
 ## Usage
 ```

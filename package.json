@@ -1,6 +1,6 @@
 {
   "name": "dpnopn",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "The homepage opener for npm modules that your project depend on.",
   "bin": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "chalk": "^2.2.0",
     "clear": "0.0.1",
     "clui": "^0.3.6",
-    "dpndon": "0.0.4",
+    "dpndon-core": "^0.0.1-0",
     "figlet": "^1.2.0",
     "inquirer": "^3.3.0",
     "minimist": "^1.2.0",
