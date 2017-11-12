@@ -6,7 +6,7 @@ dpnopn - The homepage opener for npm modules that your project depend on.
 
 
 ## This tool is no longer maintained
-Please consider using [dpndon-cli](https://github.com/k4h4shi/dpndon/tree/master/packages/dpndon-cli) instead.
+Please consider using [dpndon-cli](https://github.com/k4h4shi/dpndon/tree/master/packages/dpndon-cli) instead.
 
 it provides same function as dpndon with opener command.
 
